@@ -44,6 +44,8 @@ Detalle por hoja y su aterrizaje en Azure:
     
 
 
+
+
 2. Documento: Nivel de Madurez de Calidad de Datos (NMCD - QUIND)
 Objetivo General: Evidenciar la ejecución práctica y medición de las reglas de calidad definidas en el libro del dominio. Demuestra la capacidad de perfilar datos identificando el nivel de madurez, unicidad, completitud y validez de la tabla maestra.
 Detalle por hoja y su aterrizaje en Azure:
